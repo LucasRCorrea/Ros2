@@ -4,7 +4,7 @@
 Este projeto implementa um nó ROS 2 em Python que controla o movimento de um robô por meio de uma sequência de waypoints. O nó utiliza a odometria recebida pelo tópico `/odom` e publica comandos de velocidade no tópico `/cmd_vel`.
 
 #Link para o Video no Youtube
-  https://youtu.be/y4kvhoTtmmQ
+  [https://youtu.be/y4kvhoTtmmQ](https://www.youtube.com/shorts/GcyXsR3Mp3I)
 
 ## 📦 Requisitos
 
